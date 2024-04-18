@@ -37,7 +37,7 @@ Contributions are welcome! Feel free to open an issue or submit a pull request t
 
 [//]: ## (License)
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+[//]: ## (This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.)
 
 ## Acknowledgments
 
