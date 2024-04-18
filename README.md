@@ -35,7 +35,7 @@ The Spotify Clone project aims to replicate the user interface and some function
 
 Contributions are welcome! Feel free to open an issue or submit a pull request to suggest improvements or add new features.
 
-[//]: ## License
+[//]: ## (License)
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
